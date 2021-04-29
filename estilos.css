@@ -1,0 +1,72 @@
+@font-face{
+    font-family: "mi fuente";
+    src: url('fonts/ZenDots-Regular.ttf');
+}
+@font-face{
+    font-family: "fuente dos";
+    src: url('fonts/ZenDots-Regular.ttf');
+}  
+@font-face{
+    font-family: "subtitulo dos";
+    src: url('fonts/ZenDots-Regular.ttf');
+} 
+@font-face{
+    font-family: "parrafo";
+    src: url('fonts/NewTegomin-Regular.ttf');
+} 
+@font-face{
+    font-family: "parrafo2";
+    src: url('fonts/NewTegomin-Regular.ttf');
+} 
+@font-face{
+    font-family: "parrafo3";
+    src: url('fonts/NewTegomin-Regular.ttf');
+}
+@font-face{
+    font-family: "parrafo4";
+    src: url('fonts/NewTegomin-Regular.ttf');
+}
+@font-face{
+    font-family: "parrafo5";
+    src: url('fonts/NewTegomin-Regular.ttf');
+}
+@font-face{
+    font-family: "parrafo6";
+    src: url('fonts/NewTegomin-Regular.ttf');
+}
+h1{
+    font-family: "mi fuente";
+    font-size: 50px;
+}
+h3{
+    font-family: "fuente dos";
+    font-size: 30pX
+}
+h4{
+    font-family: "subtitulo dos";
+    font-size: 25pX
+}
+.parrafo{
+    font-family: "parrafo";
+    font-size: 25pX
+}
+.parrafo2{
+    font-family: "parrafo2";
+    font-size: 20pX
+}
+.parrafo3{
+    font-family: "parrafo3";
+    font-size: 20pX
+}
+.parrafo4{
+    font-family: "parrafo4";
+    font-size: 20px;
+}
+.parrafo5{
+    font-family: "parrafo5";
+    font-size: 20px;
+}
+.parrafo6{
+    font-family: "parrafo6";
+    font-size: 20px;
+}
